@@ -11,3 +11,6 @@ This is a simple loading animation built using HTML and CSS.
 - Flexbox centering
 - CSS animations using @keyframes
 - Difference between height and min-height
+
+## Preview
+![Loader Preview](preview.png)
